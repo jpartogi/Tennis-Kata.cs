@@ -34,7 +34,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TennisGame1.cs" />
+    <Compile Include="TennisGame.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
